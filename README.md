@@ -1,2 +1,2 @@
 # Covid_Data_Analysis
-Visualization pf n-Covid data  
+Visualization of n-Covid data  
